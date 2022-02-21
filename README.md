@@ -1,0 +1,2 @@
+# sdf
+enterpriseregistration.windows.net
